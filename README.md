@@ -7,7 +7,7 @@ An audit of 96,470 delivered orders revealed that 7.6% of packages arrive past V
 B. Project Links
 
 - Link to Notebook (Colab): https://colab.research.google.com/drive/1ETye6z2gkmVg6ttNHd1c7niQzRowqbHn?usp=sharing
-- Link to Dashboard (Looker Studio): https://colab.research.google.com/drive/1ETye6z2gkmVg6ttNHd1c7niQzRowqbHn?usp=sharing
+- Link to Dashboard (Looker Studio): https://datastudio.google.com/reporting/86796169-988a-4030-a37c-201727bdf777
 - Link to Presentation: https://docs.google.com/presentation/d/1S-ZD3n0eakY-wyRkGTOtqwzJb7N6CYxo/edit?usp=sharing&ouid=102944517551681890858&rtpof=true&sd=true
 
 C. Technical Explanation
